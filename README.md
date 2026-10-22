@@ -1,2 +1,3 @@
-# github-presence-audit
-Holds an account audit.
+# GitHub Presence Audit
+
+This repository is the permanent, written record of the current state of my public GitHub presence, put together ahead of a review committee so the facts live in a repo instead of in my head. It captures where things stand: which public repositories sit under my account, how many pull requests I have open anywhere on GitHub, whether any of my repositories run GitHub Actions, and whether any of them host discussions. The detailed findings live in the audit report (`presence-audit-report.md`), which is added on the `audit/report-v1` branch via pull request, with follow-up work tracked as issues in this repository.
